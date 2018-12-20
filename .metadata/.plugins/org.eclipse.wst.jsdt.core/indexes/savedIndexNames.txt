@@ -1,8 +1,6 @@
 INDEX VERSION 1.122+D:\keplerWorkSpace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 2006257535.index
 503559954.index
-1594284209.index
-616910134.index
-4090686627.index
 611606826.index
-430019947.index
+4090686627.index
+616910134.index
