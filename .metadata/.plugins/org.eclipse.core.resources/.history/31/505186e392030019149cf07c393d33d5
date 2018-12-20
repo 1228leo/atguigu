@@ -1,0 +1,7 @@
+package com.atguigu.atcrowdfunding.service.impl;
+
+import com.atguigu.atcrowdfunding.service.UserService;
+
+public class UserServiceImpl implements UserService {
+
+}

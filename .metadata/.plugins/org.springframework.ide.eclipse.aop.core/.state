@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="atcrowdfunding-common"/>
+<aop-project name="atcrowdfunding-bean"/>
+<aop-project name="atcrowdfunding-manager-api"/>
+<aop-project name="atcrowdfunding-manager-impl"/>
+<aop-project name="atcrowdfunding-portal-impl"/>
+<aop-project name="atcrowdfunding-web"/>
+<aop-project name="atcrowdfunding-portal-api"/>
+</aop-reference-model>
