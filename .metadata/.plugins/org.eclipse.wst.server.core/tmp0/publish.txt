@@ -1,5 +1,5 @@
 #Tomcat publish data
-#Wed Dec 19 21:36:43 CST 2018
+#Fri Dec 21 12:04:09 CST 2018
 org.eclipse.jst.j2ee.server\:atcrowdfunding-common=WEB-INF/lib/atcrowdfunding-common-0.0.1-SNAPSHOT.jar
 org.eclipse.jst.jee.server\:/binary\:D\:\\develop\\maven\\org\\springframework\\spring-web\\4.0.0.RELEASE\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
 org.eclipse.jst.j2ee.server\:atcrowdfunding-manager-api=WEB-INF/lib/atcrowdfunding-manager-api-0.0.1-SNAPSHOT.jar
